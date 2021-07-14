@@ -21,9 +21,9 @@ print ""
 a = 3
 print a
 if a > 2:
-	print "greater than 2"
+	print "a is greater than 2"
 else:
-	print "lesser than 2"
+	print "a is lesser than 2"
 
 
 print ""
@@ -31,9 +31,9 @@ print ""
 a = a - 2
 print a
 if a > 2:
-	print "greater than 2"
+	print "a is greater than 2"
 else:
-	print "lesser than 2"
+	print "a is lesser than 2"
 
 
 print ""
