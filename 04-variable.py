@@ -1,17 +1,29 @@
-x = True
-if x:
+a = True
+print a
+if a:
 	print "greater"
 else:
 	print "lesser"
 
-x = 3
-if x > 2:
+print ""
+
+
+a = 3
+print a
+if a > 2:
 	print "greater"
 else:
 	print "lesser"
 
-x = 1
-if x > 2:
+
+print ""
+
+a = a - 2
+print a
+if a > 2:
 	print "greater"
 else:
 	print "lesser"
+
+
+print ""
