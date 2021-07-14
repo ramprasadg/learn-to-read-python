@@ -8,6 +8,16 @@ else:
 print ""
 
 
+a = not a
+print a
+if a:
+	print "a is True"
+else:
+	print "a is False"
+
+print ""
+
+
 a = 3
 print a
 if a > 2:
