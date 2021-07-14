@@ -1,9 +1,9 @@
 a = True
 print a
 if a:
-	print "greater"
+	print "a is True"
 else:
-	print "lesser"
+	print "a is False"
 
 print ""
 
@@ -11,9 +11,9 @@ print ""
 a = 3
 print a
 if a > 2:
-	print "greater"
+	print "greater than 2"
 else:
-	print "lesser"
+	print "lesser than 2"
 
 
 print ""
@@ -21,9 +21,9 @@ print ""
 a = a - 2
 print a
 if a > 2:
-	print "greater"
+	print "greater than 2"
 else:
-	print "lesser"
+	print "lesser than 2"
 
 
 print ""
