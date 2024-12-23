@@ -6,5 +6,5 @@ Learn by guessing the output. If you guessed the output wrongly try reading abou
 you can always run the program to verify your answer.
 for e.g.
 ```bash
-python 01-hello-world.py
+python3 01-hello-world.py
 ```

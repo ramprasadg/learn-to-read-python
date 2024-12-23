@@ -1,9 +1,9 @@
 if True:
-	print "greater"
+	print("true")
 else:
-	print "lesser"
+	print("false")
 
 if 3>2:
-	print "greater"
+	print("greater")
 else:
-	print "lesser"
+	print("lesser")

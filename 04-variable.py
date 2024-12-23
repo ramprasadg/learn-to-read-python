@@ -1,39 +1,37 @@
 a = True
-print a
+print(a)
 if a:
-	print "a is True"
+	print("a is True")
 else:
-	print "a is False"
+	print("a is False")
 
-print ""
-
+print("")
 
 a = not a
-print a
+print(a)
 if a:
-	print "a is True"
+	print("a is True")
 else:
-	print "a is False"
+	print("a is False")
 
-print ""
+print("")
 
 
 a = 3
-print a
+print(a)
 if a > 2:
-	print "a is greater than 2"
+	print("a is greater than 2")
 else:
-	print "a is lesser than 2"
+	print("a is lesser than 2")
 
 
-print ""
+print("")
 
 a = a - 2
-print a
+print(a)
 if a > 2:
-	print "a is greater than 2"
+	print("a is greater than 2")
 else:
-	print "a is lesser than 2"
+	print("a is lesser than 2")
 
-
-print ""
+print("")
